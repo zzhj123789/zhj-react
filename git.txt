@@ -1,11 +1,15 @@
-1.git config --list       ²é¿´gitÅäÖÃĞÅÏ¢
-2.git config user.name    ²é¿´gitÓÃ»§Ãû
-3.git config user.email   ²é¿´ÓÊÏäÅäÖÃ
+1.git config --list       æŸ¥çœ‹gité…ç½®ä¿¡æ¯
+2.git config user.name    æŸ¥çœ‹gitç”¨æˆ·å
+3.git config user.email   æŸ¥çœ‹é‚®ç®±é…ç½®
 
-* git config --global user.name "nameVal"     ÅäÖÃÓÃ»§Ãû
-* git config --global user.email "eamil@qq.com"ÅäÖÃÓÊÏä
+* git config --global user.name "nameVal"     é…ç½®ç”¨æˆ·å
+* git config --global user.email "eamil@qq.com"é…ç½®é‚®ç®±
 
 
 
+<<<<<<< HEAD
 Á·Ï°i love you
+=======
+ç»ƒä¹ xxx
+>>>>>>> a869c3a544763017bfcb3e7600c8b0c73485a11f
 
