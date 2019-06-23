@@ -4,3 +4,8 @@
 
 * git config --global user.name "nameVal"     配置用户名
 * git config --global user.email "eamil@qq.com"配置邮箱
+
+
+
+练习加的东西
+
